@@ -1,4 +1,4 @@
-# TimeSeries-SARIMA-vertex
+# TimeSeries-vertex
 ```
 {
   "targetColumn": "Close_Price",
