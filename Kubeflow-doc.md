@@ -1,0 +1,3 @@
+- https://www.kubeflow.org/docs/components/pipelines/v1/sdk/
+- https://www.kubeflow.org/docs/components/pipelines/v1/sdk-v2/v2-compatibility/
+- https://www.tensorflow.org/tfx/guide
